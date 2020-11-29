@@ -17,7 +17,7 @@
 </p>
 
 
-# MLS - Mail List Splitter
+# MLS - Extract email list by domain
 This tool splits big email lists by domain
 
 Use this tool to split lists, in example if you have a big list and you want to extract only hotmail emails
