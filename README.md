@@ -3,17 +3,13 @@
   <p align="center">
     <a href="https://www.python.org/"><img alt="python" src="https://img.shields.io/badge/python-2.7%2B-blue.svg"></a>
     <a href="LICENSE"><img alt="LICENSE" src="https://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat-square"></a>
-    <a href="CHANGELOG.md"><img alt="Release" src="https://img.shields.io/badge/version-1.1-red.svg"></a>
-    <a href="https://github.com/mherrmann/fbs"><img alt="Demo" src="https://img.shields.io/badge/freeze-FBS-brown.svg"></a>
+    <a href="CHANGELOG.md"><img alt="Release" src="https://img.shields.io/badge/version-1.0-red.svg"></a>
+
   </p>
 </p>
 <p align="center">
   <a href="#installation"><img alt="installation" src="https://img.shields.io/static/v1.svg?label=&message=Installation&color=blue"></a> 
-  <a href="#portable"><img alt="portable" src="https://img.shields.io/static/v1.svg?label=&message=Portable&color=blue"></a> 
-  <a href="#howto"><img alt="howto" src="https://img.shields.io/static/v1.svg?label=&message=How%20To&color=blue"></a> 
   <a href="#build"><img alt="build" src="https://img.shields.io/static/v1.svg?label=&message=Build%20With&color=blue"></a> 
-  <a href="#contributing"><img alt="contributing" src="https://img.shields.io/static/v1.svg?label=&message=Contributing&color=blue"></a> 
-  <a href="#authors"><img alt="authors" src="https://img.shields.io/static/v1.svg?label=&message=Authors&color=blue"></a> 
 </p>
 
 
